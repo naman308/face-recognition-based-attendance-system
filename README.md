@@ -7,8 +7,8 @@
 
 4.now run attendance.py it will work between specific time which can be changed through is_time_between function
 
-5.after which email is sent to registered email id of particular student and runing attendance.py
+5.after which email is sent to registered email id of particular student when runing attendance.py
 
 6.if we run file in time other than is_time_between function then it will send mail to all absent student
 
-7. at the end of month it will send message to all registered student there monthly attendance
+7. at the end of month it will send email to all registered students notify monthly attendance
